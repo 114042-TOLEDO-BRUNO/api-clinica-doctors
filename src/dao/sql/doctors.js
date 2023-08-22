@@ -1,4 +1,4 @@
-import pool from "../../utils/db.js"
+import pool from "../../utils/db.js"//455
 
 class Doctor {
     constructor(){}
